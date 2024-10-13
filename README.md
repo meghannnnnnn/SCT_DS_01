@@ -1,4 +1,4 @@
-# Population Growth📊📈
+# *Population Growth📊📈*
 
 This project aims to visualize the continuous distribution of the population for India from 1960 to 2023 using a bar graph.
 
